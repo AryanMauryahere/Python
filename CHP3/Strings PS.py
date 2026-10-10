@@ -26,7 +26,7 @@
 
 # print(w.replace("r" , "i"))
 
-print("hello world \n i am Aryan Maurya \? \=\()")
+# print("hello world \n i am Aryan Maurya \? \=\()")
 
 # A = input("Enter your Name:")
 # print("Good Afternoon" , A)

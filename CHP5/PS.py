@@ -10,16 +10,16 @@
 
 # #Write a program to input eight numbers from the user and display all the unique numberr once
 
-# s = set()
+s = set()
 
-# number1 = input("Enter 1st number:")
-# number2 = input("Enter 2nd number:")
-# number3 = input("Enter 3rd number:")
-# number4 = input("Enter 4th number:")
-# number5 = input("Enter 5th number:")
-# number6 = input("Enter 6th number:")
-# number7 = input("Enter 7th number:")
-# number8 = input("Enter 8th number:")
+number1 = input("Enter 1st number:")
+number2 = input("Enter 2nd number:")
+number3 = input("Enter 3rd number:")
+number4 = input("Enter 4th number:")
+number5 = input("Enter 5th number:")
+number6 = input("Enter 6th number:")
+number7 = input("Enter 7th number:")
+number8 = input("Enter 8th number:")
 
 s.add(int(number1))
 s.add(int(number2))
@@ -30,7 +30,7 @@ s.add(int(number6))
 s.add(int(number7))
 s.add(int(number8))
 
-# s.update(number1, number2, number3, number4, number5, number6, number7, number8)
+s.update(number1, number2, number3, number4, number5, number6, number7, number8)
 
 
 #Can we have a set with 18 (int) and '18' (str) as a value in it?

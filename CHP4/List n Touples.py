@@ -47,7 +47,7 @@
 # fruits = (a, b, c, d, e, f, g)
 # print(fruits)
 
-fruits = []
+# fruits = []
 
 # f1 = input("Enter fruit name:")
 # fruits.append(f1)
