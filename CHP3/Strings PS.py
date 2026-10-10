@@ -6,7 +6,7 @@
 # word = "amazing"
 # word[1:6:2] # mzn
 
-# print(word[1:6:4])
+# print(word[1:6:4]) #mn
 
 
 # print(word[:])
@@ -26,7 +26,7 @@
 
 # print(w.replace("r" , "i"))
 
-# print("hello world \n i am Aryan Maurya \? \=\()")
+print("hello world \n i am Aryan Maurya \? \=\()")
 
 # A = input("Enter your Name:")
 # print("Good Afternoon" , A)
