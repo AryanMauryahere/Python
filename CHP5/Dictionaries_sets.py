@@ -1,9 +1,9 @@
-a = {
+# a = {
 
-  "key" : "value" ,
-  "aryan" : "good",
-  "didi" : "bad",
- }
+#   "key" : "value" ,
+#   "aryan" : "good",
+#   "didi" : "bad",
+#  }
 
 # # print(a.values())
 # # print(a["aryan"])
@@ -13,33 +13,33 @@ a = {
 # a.update({"c" : 3})
 # print(a)
 
-# # print(a.pop("c"))
+# print(a.pop("c"))
 # print(a)
 
-# print(a.popitem())
+# print(a.popitem()) # removes the last item in the dictionary
 # print(a)
 
 # a.clear()
 # print(a)
 
-a.update({"aryan": "bad"})
-print(a)
+# a.update({"aryan": "bad"})
+# print(a)
 
-print(a.get("rohan")) #prints none
-# print(a["rohan"]) #returns an error that the only diff in both
+# print(a.get("rohan")) #prints none
+# # print(a["rohan"]) #returns an error that the only diff in both
 
-### sets
+# ### sets
 
 s = set() #an empty set
 
 z = {} #an empty dictionary
 
 set = { 1, 2, 3, 2, 2, 2, 3}
-print(set) #repeat nahi hote sets ke andar ke elements
+print(set) 
 set.remove(3)
-print(set) #repeat nahi hote sets ke andar ke elements
-# set.clear()
-# print(set) #repeat nahi hote sets ke andar ke elements
+print(set) 
+set.clear()
+print(set) 
 
 set2 = {1, 5, 6, 89}
 

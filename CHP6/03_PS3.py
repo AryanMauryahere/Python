@@ -5,13 +5,13 @@
 # cmt = input("Enter a comment: ")
 # cmt_lwr = cmt.lower()
 
-# if(cmt == "click this"):
+# if(cmt_lower == "click this"):
 #     print("It is a spam comment.")    
 
-# elif(cmt == "subscribe this"):
+# elif(cmt_lower == "subscribe this"):
 #     print("It is a spam comment.")
 
-# elif(cmt == "but now"):
+# elif(cmt_lower == "but now"):
 #     print("It is a spam comment.")
 
 # else:
